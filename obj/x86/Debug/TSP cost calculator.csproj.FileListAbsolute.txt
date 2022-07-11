@@ -1,0 +1,9 @@
+c:\users\176\documents\visual studio 2010\Projects\TSP cost calculator\TSP cost calculator\bin\Debug\TSP cost calculator.exe
+c:\users\176\documents\visual studio 2010\Projects\TSP cost calculator\TSP cost calculator\bin\Debug\TSP cost calculator.pdb
+c:\users\176\documents\visual studio 2010\Projects\TSP cost calculator\TSP cost calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\176\documents\visual studio 2010\Projects\TSP cost calculator\TSP cost calculator\obj\x86\Debug\TSP_cost_calculator.Form1.resources
+c:\users\176\documents\visual studio 2010\Projects\TSP cost calculator\TSP cost calculator\obj\x86\Debug\TSP_cost_calculator.Properties.Resources.resources
+c:\users\176\documents\visual studio 2010\Projects\TSP cost calculator\TSP cost calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\176\documents\visual studio 2010\Projects\TSP cost calculator\TSP cost calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\176\documents\visual studio 2010\Projects\TSP cost calculator\TSP cost calculator\obj\x86\Debug\TSP cost calculator.exe
+c:\users\176\documents\visual studio 2010\Projects\TSP cost calculator\TSP cost calculator\obj\x86\Debug\TSP cost calculator.pdb
